@@ -1,54 +1,54 @@
 {
   "bonds": {
     "59523UAN7": {
-      "price": 99.363,
-      "trade_date": "2026-10-29",
-      "ytm": 4.7
+      "price": 99.312,
+      "trade_date": "2026-10-30",
+      "ytm": 4.81
     },
     "59523UAP2": {
-      "price": 0.0,
-      "trade_date": "2026-10-29",
-      "ytm": null
+      "price": 98.801,
+      "trade_date": "2026-10-30",
+      "ytm": 4.97
     },
     "59523UAQ0": {
-      "price": 97.204,
-      "trade_date": "2026-10-29",
-      "ytm": 5.21
+      "price": 97.373,
+      "trade_date": "2026-10-30",
+      "ytm": 5.13
     },
     "59523UAR8": {
-      "price": 91.925,
-      "trade_date": "2026-10-29",
-      "ytm": 5.39
+      "price": 0.0,
+      "trade_date": "2026-10-30",
+      "ytm": null
     },
     "59523UAS6": {
-      "price": 85.67306,
-      "trade_date": "2026-10-28",
-      "ytm": 5.48
+      "price": 86.161,
+      "trade_date": "2026-10-30",
+      "ytm": 5.35
     },
     "59523UAU1": {
-      "price": 58.455,
-      "trade_date": "2026-10-29",
-      "ytm": 6.16
+      "price": 0.0,
+      "trade_date": "2026-10-30",
+      "ytm": null
     },
     "59523UAV9": {
-      "price": 95.693,
-      "trade_date": "2026-10-29",
-      "ytm": 5.72
+      "price": 96.055,
+      "trade_date": "2026-10-30",
+      "ytm": 5.66
     },
     "59523UAW7": {
-      "price": 99.405,
-      "trade_date": "2026-10-29",
-      "ytm": 5.42
+      "price": 0.0,
+      "trade_date": "2026-10-30",
+      "ytm": null
     },
     "59523UAX5": {
-      "price": 94.733,
-      "trade_date": "2026-10-22",
-      "ytm": 5.75
+      "price": 95.016,
+      "trade_date": "2026-10-30",
+      "ytm": 5.7
     },
     "59523UAY3": {
-      "price": 95.209,
-      "trade_date": "2026-10-29",
-      "ytm": 5.57
+      "price": 95.233,
+      "trade_date": "2026-10-30",
+      "ytm": 5.56
     }
   },
   "curve": {
@@ -72,5 +72,5 @@
     "source": "U.S. Treasury par yield curve"
   },
   "errors": [],
-  "generated_at": "2026-10-30T23:05:05+00:00"
+  "generated_at": "2026-11-02T12:25:57+00:00"
 }
