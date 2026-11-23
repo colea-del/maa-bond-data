@@ -1,29 +1,29 @@
 {
   "bonds": {
     "59523UAN7": {
-      "price": 99.327,
-      "trade_date": "2026-11-19",
-      "ytm": 4.89
+      "price": 99.361,
+      "trade_date": "2026-11-20",
+      "ytm": 4.85
     },
     "59523UAP2": {
-      "price": 98.417,
-      "trade_date": "2026-11-19",
-      "ytm": 5.26
+      "price": 98.566,
+      "trade_date": "2026-11-20",
+      "ytm": 5.16
     },
     "59523UAQ0": {
-      "price": 96.884,
-      "trade_date": "2026-11-19",
-      "ytm": 5.39
+      "price": 97.144,
+      "trade_date": "2026-11-20",
+      "ytm": 5.27
     },
     "59523UAR8": {
-      "price": 91.714,
-      "trade_date": "2026-11-18",
-      "ytm": 5.51
+      "price": 92.104,
+      "trade_date": "2026-11-20",
+      "ytm": 5.38
     },
     "59523UAS6": {
-      "price": 85.649,
-      "trade_date": "2026-11-19",
-      "ytm": 5.54
+      "price": 0.0,
+      "trade_date": "2026-11-20",
+      "ytm": null
     },
     "59523UAU1": {
       "price": 0.0,
@@ -31,14 +31,14 @@
       "ytm": null
     },
     "59523UAV9": {
-      "price": 95.246,
-      "trade_date": "2026-11-19",
-      "ytm": 5.8
+      "price": 95.6365,
+      "trade_date": "2026-11-20",
+      "ytm": 5.73
     },
     "59523UAW7": {
-      "price": 98.941,
-      "trade_date": "2026-11-19",
-      "ytm": 5.53
+      "price": 99.339,
+      "trade_date": "2026-11-20",
+      "ytm": 5.44
     },
     "59523UAX5": {
       "price": 94.387,
@@ -46,9 +46,9 @@
       "ytm": 5.81
     },
     "59523UAY3": {
-      "price": 94.36,
-      "trade_date": "2026-11-19",
-      "ytm": 5.74
+      "price": 94.892,
+      "trade_date": "2026-11-20",
+      "ytm": 5.64
     }
   },
   "curve": {
@@ -72,5 +72,5 @@
     "source": "U.S. Treasury par yield curve"
   },
   "errors": [],
-  "generated_at": "2026-11-20T23:17:11+00:00"
+  "generated_at": "2026-11-23T12:32:34+00:00"
 }
